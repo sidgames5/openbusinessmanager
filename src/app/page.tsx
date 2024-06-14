@@ -1,3 +1,3 @@
 export default function Page() {
-	return <h1>In development, come back later</h1>
+	return <ul class="slimglasstop"><li><a href="/" class="active">Dashboard</a></li><li><a href="/">Browse</a></li><li><a href="/">Manage</a></li></ul>
 }
